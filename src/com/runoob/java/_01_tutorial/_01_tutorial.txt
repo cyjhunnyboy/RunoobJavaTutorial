@@ -1,0 +1,6 @@
+Java 教程
+    1、String args[]与String[] args都可以执行，推荐使用String[] args
+    2、编译HelloWorld.java文件
+        javac HelloWorld.java
+    3、执行HelloWorld.java文件
+        java HelloWorld
