@@ -6,7 +6,7 @@ package com.runoob.java._06_basicdatatypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class Qiangzhizhuanhuan {
+public class _06_04_QiangzhizhuanhuanTest {
 
     public static void main(String[] args) {
         int i1 = 123;

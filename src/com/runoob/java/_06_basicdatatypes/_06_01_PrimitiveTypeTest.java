@@ -6,7 +6,7 @@ package com.runoob.java._06_basicdatatypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class PrimitiveTypeTest {
+public class _06_01_PrimitiveTypeTest {
 
     public static void main(String[] args) {
         // byte数据类型

@@ -6,7 +6,7 @@ package com.runoob.java._05_objectandclass;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class Employee {
+public class _05_03_Employee {
 
     /**
      * 姓名
@@ -33,7 +33,7 @@ public class Employee {
      *
      * @param name 姓名
      */
-    public Employee(String name) {
+    public _05_03_Employee(String name) {
         this.name = name;
     }
 

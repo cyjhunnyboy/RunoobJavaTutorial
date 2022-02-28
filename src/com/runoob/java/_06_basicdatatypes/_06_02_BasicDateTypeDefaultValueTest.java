@@ -6,7 +6,7 @@ package com.runoob.java._06_basicdatatypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class BasicDateTypeDefaultValueTest {
+public class _06_02_BasicDateTypeDefaultValueTest {
 
     static byte aByte;
     static short aShort;

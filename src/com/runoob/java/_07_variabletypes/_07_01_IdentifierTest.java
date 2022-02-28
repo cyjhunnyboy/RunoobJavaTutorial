@@ -6,7 +6,7 @@ package com.runoob.java._07_variabletypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class _01_IdentifierTest {
+public class _07_01_IdentifierTest {
 
     /*
         声明变量的语法格式如下：

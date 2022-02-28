@@ -6,7 +6,7 @@ package com.runoob.java._04_basicgrammar;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class FreshJuice {
+public class _04_02_FreshJuice {
 
     enum FreshJuiceSize {SMALL, MEDIUM, LARGE}
 

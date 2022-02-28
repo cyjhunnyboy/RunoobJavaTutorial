@@ -6,7 +6,7 @@ package com.runoob.java._01_tutorial;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class HelloWorld {
+public class _01_01_HelloWorld {
 
     public static void main(String[] args) {
 

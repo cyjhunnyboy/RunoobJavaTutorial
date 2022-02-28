@@ -6,7 +6,7 @@ package com.runoob.java._07_variabletypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class _05_EmployeeTest {
+public class _07_05_EmployeeTest {
 
     /**
      * salary是静态的私有变量

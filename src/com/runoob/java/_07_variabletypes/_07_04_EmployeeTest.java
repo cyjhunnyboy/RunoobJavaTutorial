@@ -6,7 +6,7 @@ package com.runoob.java._07_variabletypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class _04_EmployeeTest {
+public class _07_04_EmployeeTest {
 
     /*
         这个实例变量对子类可见
@@ -23,7 +23,7 @@ public class _04_EmployeeTest {
      *
      * @param empName 员工姓名
      */
-    public _04_EmployeeTest(String empName) {
+    public _07_04_EmployeeTest(String empName) {
         name = empName;
     }
 
@@ -45,7 +45,7 @@ public class _04_EmployeeTest {
     }
 
     public static void main(String[] args) {
-        _04_EmployeeTest empOne = new _04_EmployeeTest("Candy");
+        _07_04_EmployeeTest empOne = new _07_04_EmployeeTest("Candy");
         empOne.setSalary(10000.0);
         empOne.printEmp();
     }

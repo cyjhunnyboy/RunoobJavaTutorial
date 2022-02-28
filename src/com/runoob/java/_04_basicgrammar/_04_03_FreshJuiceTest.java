@@ -6,11 +6,11 @@ package com.runoob.java._04_basicgrammar;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class FreshJuiceTest {
+public class _04_03_FreshJuiceTest {
 
     public static void main(String[] args) {
-        FreshJuice juice = new FreshJuice();
-        juice.size = FreshJuice.FreshJuiceSize.MEDIUM;
+        _04_02_FreshJuice juice = new _04_02_FreshJuice();
+        juice.size = _04_02_FreshJuice.FreshJuiceSize.MEDIUM;
         System.out.println("Hello World!");
     }
 }

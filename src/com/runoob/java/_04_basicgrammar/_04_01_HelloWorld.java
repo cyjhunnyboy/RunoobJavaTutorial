@@ -6,7 +6,7 @@ package com.runoob.java._04_basicgrammar;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class HelloWorld {
+public class _04_01_HelloWorld {
 
     /*
         public: 访问修饰符

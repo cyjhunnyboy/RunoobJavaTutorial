@@ -6,7 +6,7 @@ package com.runoob.java._07_variabletypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class _02_VariableTypeTest {
+public class _07_02_VariableTypeTest {
 
     /*
         类变量：allClicks
@@ -30,7 +30,7 @@ public class _02_VariableTypeTest {
     }
 
     public static void main(String[] args) {
-        _02_VariableTypeTest variable = new _02_VariableTypeTest();
+        _07_02_VariableTypeTest variable = new _07_02_VariableTypeTest();
         variable.method();
     }
 }

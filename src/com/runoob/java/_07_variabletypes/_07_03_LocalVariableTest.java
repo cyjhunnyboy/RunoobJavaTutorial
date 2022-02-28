@@ -6,7 +6,7 @@ package com.runoob.java._07_variabletypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class _03_LocalVariableTest {
+public class _07_03_LocalVariableTest {
 
     public void pupAge() {
         /*
@@ -27,7 +27,7 @@ public class _03_LocalVariableTest {
     }
 
     public static void main(String[] args) {
-        _03_LocalVariableTest localVariable = new _03_LocalVariableTest();
+        _07_03_LocalVariableTest localVariable = new _07_03_LocalVariableTest();
         localVariable.pupAge();
     }
 }

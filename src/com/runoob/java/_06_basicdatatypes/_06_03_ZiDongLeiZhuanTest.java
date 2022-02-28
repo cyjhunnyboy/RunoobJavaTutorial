@@ -6,7 +6,7 @@ package com.runoob.java._06_basicdatatypes;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class ZiDongLeiZhuan {
+public class _06_03_ZiDongLeiZhuanTest {
 
     public static void main(String[] args) {
         // 定义一个char类型

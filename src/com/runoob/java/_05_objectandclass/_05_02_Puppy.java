@@ -6,7 +6,7 @@ package com.runoob.java._05_objectandclass;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class Puppy {
+public class _05_02_Puppy {
 
     /**
      * 年龄
@@ -16,7 +16,7 @@ public class Puppy {
     /**
      * 无参构造方法
      */
-    public Puppy() {
+    public _05_02_Puppy() {
     }
 
     /**
@@ -24,7 +24,7 @@ public class Puppy {
      *
      * @param name 名称
      */
-    public Puppy(String name) {
+    public _05_02_Puppy(String name) {
         // 这个构造器仅有一个参数：name
         System.out.println("小狗的名字是：" + name);
     }
@@ -54,7 +54,7 @@ public class Puppy {
      */
     public static void main(String[] args) {
         // 创建一个Puppy对象
-        Puppy myPuppy = new Puppy("tommy");
+        _05_02_Puppy myPuppy = new _05_02_Puppy("tommy");
         // 通过方法设定age
         myPuppy.setPuppyAge(2);
         /* 调用另一个方法获取age */

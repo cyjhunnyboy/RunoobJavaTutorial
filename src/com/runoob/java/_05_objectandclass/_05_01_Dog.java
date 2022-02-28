@@ -6,7 +6,7 @@ package com.runoob.java._05_objectandclass;
  * @author chenyongjun
  * @since 2022-02-24
  */
-public class Dog {
+public class _05_01_Dog {
 
     /**
      * 品种
