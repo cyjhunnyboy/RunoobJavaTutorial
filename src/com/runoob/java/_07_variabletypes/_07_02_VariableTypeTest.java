@@ -8,9 +8,9 @@ package com.runoob.java._07_variabletypes;
  */
 public class _07_02_VariableTypeTest {
 
-    /*
-        类变量：allClicks
-            独立于方法之外的变量，用static修饰。
+    /**
+     * 类变量：allClicks
+     * 独立于方法之外的变量，用static修饰。
      */
     static int allClicks = 0;
 
